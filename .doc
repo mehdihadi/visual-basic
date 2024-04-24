@@ -1,0 +1,93 @@
+Time :12:16:27 È.Ù        Water Corrosion Index Calculator
+Date :02/06/2015                 Version 1.0 
+                                  May 2008
+                Mahdi Hadi - M.Sc of Environmental Engineering  
+     --------------------------------------------------------------------
+  Scaling and Corrosion Characterisrics of Water
+
+  Sample Properties :
+  
+      Operator name :  
+      Date of sampling : 
+      Organization Name : 
+      sample location name : 
+
+   Water Characterisrics :
+  
+               Parameter          Unit            Value
+            -------------------------------------------  
+          Dissolved solids(TDS)   mg / L          
+  
+          Alkalinity(ALK)         mg/L as caco3    
+          Temperture(Tc)            C              
+          pH                        -              
+          Calcium as Ca           mg/L             
+
+   water corrosion indices vslues :
+  
+               Index          Unit            Value
+            -------------------------------------------  
+               LI               -           -0.581289 
+  
+               RI               -            8.162579 
+
+               PSI              -            14.47725 
+
+               AI               -            11.465258 
+
+               DFI              -            0.122876 
+
+               LR               -            0.065554 
+
+               ME               -           -0.000006 
+
+               SL               -            0.088295 
+
+            ------------------------------------------- 
+
+   Corrosion indices interpertation:
+
+      Langelier index(LI):
+
+         Description :   None- Mild Corrosion
+         General recomendation :  Probably No Treatment 
+
+      Stability index(Ryznar index):
+
+         Description :   Water is aggressive
+         General recomendation :  Treatment recommended
+
+      Puckorius index :
+
+         Description :    Corrosion may occur
+         General recomendation :  No Treatment
+         Note : Without The use of scale control Treatment
+         a colling tower operate scale free
+
+      Aggressiveness index(AI) :
+
+         Description :   water is moderately aggressive
+         General recomendation :  Treatment may be Needed
+
+      Driving Force index(DFI) :
+
+         Description :   Water is Undersaturated with Respect to caco3
+         General recomendation : Treatment may be Needed
+
+      Larson & Scold index (LR) :
+
+         Description :   Chlorides and sulfates do not influence the 
+         natural formation of the protective film
+         General recomendation :  Treatment Recommended
+
+      Momentary Excess index(ME) :
+
+         Description :  Water is Oversaturated with Respect to caco3
+         General recomendation :  Treatment may be Needed
+
+      Carbonate Saturation Level index :
+
+         Description :   Water is Undersaturated with Respect to caco3
+         Note :Scaling is Unlikely and any Existing Scale is Likely to
+          Dissolve.
+         General recomendation : Treatment may be Needed
